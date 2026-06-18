@@ -1,4 +1,10 @@
-‎<?php
+<?php
+/*
+Plugin Name: Custom Login Page Widget
+Description: Automatically updates from GitHub.
+Version: 1.0
+Author: Tomor
+*/
 ‎/**
 · ‎Template Name: WooCommerce ERP Login
 · ‎Description: Standalone premium login page with glassmorphic secure authentication, neon red styling, and reactive AJAX.
